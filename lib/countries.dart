@@ -5162,7 +5162,7 @@ const List<Country> countries = [
       "de": "Palästinensische Autonomiegebiete",
       "fr": "Territoires palestiniens",
       "es": "Territorios Palestinos",
-      "en": "Palestinian Territories",
+      "en": "Palestine",
       "pt_BR": "Territórios Palestinos",
       "sr-Cyrl": "Палестина",
       "sr-Latn": "Palestina",
