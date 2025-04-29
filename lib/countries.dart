@@ -5149,7 +5149,7 @@ const List<Country> countries = [
     maxLength: 7,
   ),
   Country(
-    name: "Palestinian Territory, Occupied",
+    name: "Palestine",
     nameTranslations: {
       "sk": "Palestínske územia",
       "se": "Palestina",
